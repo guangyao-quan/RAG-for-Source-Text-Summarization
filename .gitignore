@@ -1,0 +1,12 @@
+/.env
+**/__pycache__/
+/.idea/
+/.DS_Store
+/.streamlit/
+/default.sqlite
+/offload/
+/app/evaluation/bart_score.pth
+/data/huggingface_datasets/
+/data/outputs
+/example.html
+/mlruns
